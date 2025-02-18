@@ -1,2 +1,1 @@
-# Databasesystem
 DataBase System
